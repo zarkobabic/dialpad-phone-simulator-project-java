@@ -70,3 +70,6 @@ Project for Object Oriented Programming 2 class
 којем је исписано ABC како би се исписало слово A, а затим три пута притиснути дугме на којем 
 је исписано MNO како би се исписало слово O. Након слова А није потребно чекати једну 
 секунду.
+
+![image](https://user-images.githubusercontent.com/92127059/148454015-ea4dbaba-86ea-482d-b694-390e5b1e898d.png)
+
